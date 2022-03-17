@@ -1,8 +1,6 @@
 # Data-Analytics-Portfolio
 Data Analytics related projects
 
-# Data-Analytics-Portfolio
-
 *[1. Marketing and Retail Analytics: Capstone Project](https://github.com/yogeshksinha/Marketing-and-Retail-Analytics-Capstone-Project-.git)*
 
 Identified top products of an e-commerce company that contributes to the revenue using Pareto Analysis (80/20 rule). 
@@ -18,9 +16,9 @@ Created insightful dashboards for IPL data between 2008-2017 seasons using Table
     
 Used SQL to analyze given data and gave recommendations to RSVP Movies based on the insights.
 
-*[4. AirBNB Analytics using Power BI](https://github.com/yogeshksinha/IPL-Visualization-using-Tableau)*
+*[4. AirBNB Analytics using Power BI](https://github.com/yogeshksinha/Storytelling-Case-Study-Airbnb.git)*
 
-Extracted data and gathered insights from real-life data set of an e-commerce company using HiveQL, HDFS and AWS.
+Using Power BI, cleaned, prepared and analyzed the Airbnb, NY dataset and provided recommendations to stakeholders using Data storytelling techniques.
 
 *[5. Big data Analytics using Hive for E-commerce](https://github.com/yogeshksinha/IPL-Visualization-using-Tableau)*
 
